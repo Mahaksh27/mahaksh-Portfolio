@@ -12,9 +12,9 @@
 }
 
 :root{
-    --bg-color: #1f242d;
-    --second-bg-color: #323946;
-    --text-color: #fff;
+    --bg-color: #fdfeff;
+    --second-bg-color: #dac7da;
+    --text-color: #111010;
     --main-color: #0ef;
 
 }
@@ -135,7 +135,7 @@ span{
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .about-img img{
