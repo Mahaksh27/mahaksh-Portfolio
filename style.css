@@ -12,10 +12,10 @@
 }
 
 :root {
-    --bg-color: #fdfeff;
-    --second-bg-color: #dfa8df;
-    --text-color: #111010;
-    --main-color: #0ef;
+    --bg-color: #FFFBF5;
+    --second-bg-color: #C3ACD0;
+    --text-color: #050000;
+    --main-color: #7743DB;
 
 }
 
@@ -104,8 +104,8 @@ section {
 }
 
 .home-content h3 {
-    font-size: 3.2rem;
-    font-weight: 700;
+    font-size: 3.1rem;
+    font-weight: 600;
 
 }
 
