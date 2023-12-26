@@ -406,7 +406,7 @@ span {
 
 @media (max-width: 991px) {
     .header {
-        font-size: 2rem 3%;
+        padding: 2rem 3%;
     }
 
     section {
@@ -479,7 +479,7 @@ span {
     }
 
     .about img {
-        width: 70vh;
+        width: 70vw;
         margin-top: 4rem;
     }
 
